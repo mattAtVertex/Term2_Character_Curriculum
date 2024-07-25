@@ -1,0 +1,13 @@
+# Reading: Materials for Environments
+
+<h2>High Poly to Low Poly vs Mid Poly with Trim Sheets</h2>
+<p>Knowing how to create 3D art using the high poly to low poly workflow is essential for any 3D artist. As an environment artist, this is something you will be doing a lot for major hero props or things that need that extra detail that is just too expensive to run in real time. But most of the time you'll want to take advantage of modeling with the mid poly workflow and using trim sheets. It's fast, efficient, and can give some great results when planned out and done correctly!</p>
+<h4><strong>But what about when you need some extra HP detail on just a few things in a small area but the rest could be trim sheets?</strong></h4>
+<p><strong>Enter the Hybrid. </strong>The hybrid texture allows you to combine a trim sheet with sections that are uniquely UV mapped. This can be really useful for something like a door, where the door itself needs a unique layout and the door knob needs a HP &gt; LP bake, but the door frame could be built with a trim sheet.</p>
+<p><img src="https://vertexschool.instructure.com/courses/464/files/27968/preview?verifier=FuGZkrpDI05moqFOxAlgMRcY6ZcylKMCEb1ZsRFN" alt="doorwindow_trimhybrid.jpg" width="397" height="400" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/464/files/27968" data-api-returntype="File">&nbsp;&nbsp;</p>
+<hr>
+<h2>Using Tileables (or How Big do They Really Need to Be?)</h2>
+<p>As we build out our environment, we're thinking of our texel density as 5.12 pixels per centimeter and typically considering a 4x4m plane maps perfectly to a 2048x2048 texture using that texel density. But do we really need 2k tileables? Sometimes they are necessary, yes. But most of the time we can get away with a 1024x1024 texture mapped to a 2x2m plane. This is actually really common in game development.</p>
+<p>If you were to look at something like the Megascans library, you'll see right there in the names: "2x2m". This means those textures are best mapped to a 2x2meter plane.</p>
+<p><img src="https://vertexschool.instructure.com/courses/464/files/27959/preview?verifier=rNzLqE1njhVvpldXkemTiDUGoUjNeAE2YqgHSJbS" alt="Bridge_2x2m.jpg" width="640" height="282" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/464/files/27959" data-api-returntype="File">&nbsp;&nbsp;</p>
+<p>Sticking with the 5.12 px/cm texel density, you can see that most of the time you'll be fine using 1024x1024 textures for your tilables. By the time you set dress your scene, add decals, and do some vertex painting... you won't even notice the tiling!</p>
