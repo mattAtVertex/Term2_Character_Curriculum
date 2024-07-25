@@ -1,0 +1,7 @@
+# Welcome to the Course!
+
+<h2>Welcome!</h2>
+<p>Welcome to Environment Art 201!</p>
+<p>In this course, we're going to tackling the pipeline process of creating environment art for games. By the end of this course, you should have the skills necessary to create your own environment scene. Following along with the process, at the end of this course you should have your own street corner diorama ready to add to your portfolio.</p>
+<p>Throughout this course, you will be provided with a complete walkthrough tutorial where I build a street corner with a little ramen shop. I'll be showing you my techniques and process. Everything is recorded, no punches are pulled, and no mistakes covered up. You'll not only get to see how I put this scene together, but also experience some of the issues I ran into when building it. A lot of tutorials out there like to hide the parts where things go wrong, giving the illusion that a good artist never makes mistakes. The truth is, we all make mistakes no matter how long we've been in the industry. Mistakes are often the most important part of the process. In this tutorial, you'll get to see some of the ways I troubleshoot problems as well as how experimentation and mistakes often lead to discovery.</p>
+<p>Thanks for being here and I hope this course helps you unlock your own inner potential as an environment artist!</p>
