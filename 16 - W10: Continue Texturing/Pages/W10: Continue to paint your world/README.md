@@ -1,0 +1,3 @@
+# W10: Continue to paint your world
+
+<p>This week, we encourage you to continue your work on creating textures for your game environments. Focus on a variety of texture types, including tileable textures, trim sheets, and texture atlases, each essential for adding detail and realism to your scenes. Use this time to refine your skills in texture creation, ensuring your environments are both visually stunning and efficiently constructed. Let’s continue this creative and technical journey to enhance the richness and believability of your game worlds.</p>
